@@ -1,0 +1,13 @@
+# Sensitive
+*.secret
+*.key
+*.pem
+client_secret*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.log
